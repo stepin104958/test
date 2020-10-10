@@ -1,0 +1,41 @@
+Android Basics:-
+
+* Mobile Development Life Cycle
+
+	-- 
+	
+*Stock OS - Nokia
+*Android Runtime -- dex file(Dalvik Executable format)	
+
+*Model View Controller Pattern
+
+
+*Create An App
+
+ --
+ 
+ 
+ 
+ Day2:---
+ 
+ * INTENT (class in java)-commmunication between 2 activiies
+ 
+ * EditText
+
+
+
+https://developer.android.com/studio/intro?authuser=1 https://developer.android.com/studio/run/managing-avds?authuser=1 https://developer.android.com/guide/platform. https://developer.android.com/training/basics/firstapp/creating-project?authuser=1 https://developer.android.com/training/basics/firstapp/running-app?authuser=1 .https://developer.android.com/training/basics/firstapp/building-ui?authuser=1
+
+
+
+https://developer.android.com/studio/intro?authuser=1 https://developer.android.com/studio/run/managing-avds?authuser=1 https://developer.android.com/guide/platform. https://developer.android.com/training/basics/firstapp/creating-project?authuser=1 https://developer.android.com/training/basics/firstapp/running-app?authuser=1 .https://developer.android.com/training/basics/firstapp/building-ui?authuser=1
+
+
+
+https://developer.android.com/studio/intro?authuser=1 https://developer.android.com/studio/run/managing-avds?authuser=1 https://developer.android.com/guide/platform. https://developer.android.com/training/basics/firstapp/creating-project?authuser=1
+
+https://developer.android.com/studio/intro?authuser=1
+https://developer.android.com/studio/run/managing-avds?authuser=1
+https://developer.android.com/training/basics/firstapp/creating-project?authuser=1
+https://developer.android.com/training/basics/firstapp/running-app?authuser=1
+https://developer.android.com/training/basics/firstapp/building-ui?authuser=1
