@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Notifications" />
+        <item
+            android:id="@+id/nav_internalStorage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Internal Storage" />
+        <item
+            android:id="@+id/nav_externalStorage"
+            android:icon="@android:drawable/stat_notify_sdcard"
+            android:title="External Storage" />
+        <item
+            android:id="@+id/nav_intent"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="Intent" />
+        <item
+            android:id="@+id/nav_shared"
+            android:icon="@android:drawable/btn_star_big_on"
+            android:title="Shared" />
+    </group>
+</menu>
